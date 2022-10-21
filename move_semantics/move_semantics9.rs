@@ -2,7 +2,6 @@
 // Make me compile only by reordering the existing lines in `main()`,
 // but without adding, changing or removing anything else.
 // `rustlings hint move_semantics9` for hints
-
 // I AM NOT DONE
 
 fn main() {

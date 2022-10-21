@@ -2,7 +2,6 @@
 // Make me compile and run without error !
 // `rustlings hint move_semantics8` for hints
 
-
 fn non_null_ref(v: &i32) -> &i32 {
 
     if *v == 0 {

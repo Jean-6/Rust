@@ -4,7 +4,6 @@
 // freshly created vector from fill_vec to its caller.
 // Execute `rustlings hint move_semantics4` for hints!
 
-
 fn main() {
     //let vec0 = Vec::new();
 

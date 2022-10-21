@@ -4,7 +4,6 @@
 // Use `rustlings hint move_semantics7` for hints
 
 
-
 fn main() {
     let mut v = Vec::new();
     add_one_value((add_one_value(&mut v)));
